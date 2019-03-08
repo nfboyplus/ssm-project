@@ -10,7 +10,7 @@
 <body>
 <center>
     <h1>蚂蚁视频后台管理系统</h1>
-    <a href="locaAddVideo">添加资源</a>
+    <a href="loadAddVideo">添加资源</a>
     <table style="BORDER-COLLAPSE: collapse; text-align: center;"
            borderColor=#000000 height=40 cellPadding=1 width="70%"
            align="center" border=1>
